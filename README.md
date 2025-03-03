@@ -1,12 +1,14 @@
 # identity
 
-Identity emerges from Honesty & Musn't (Decency). (while free speech is about shoudn't/can't)
+Identity emerges from Honesty & Musn't (aka Decency). (on the other hand free speech, is about shoudn't/can't)
 
 [Who we are?](https://letters.empiresec.co/p/what-are-we)
 
 https://docs.polycentric.io/futo-id/
 
 [Thank God For Nostr discusses NIP-77 and Web of Trust](https://fountain.fm/episode/aD6Jp6wGxOOitdqeaBii)
+
+https://github.com/hoytech/strfry/blob/nextneg/docs/negentropy.md
 
 ![image](https://github.com/user-attachments/assets/cc0e0118-8dc8-4b77-ae2c-eb663336590a)
 
@@ -24,7 +26,13 @@ https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/overv
 
 ## The great Key Management UX problem
 
-bitcoin cold signing {multisig} , mon-mnemonics, metal(gold), paper wallet, and now nsec 🤦 supperbacked by sun knudsen
+is Web Standard of Passkey with [residengt keys,userVerificationRequired](https://developers.yubico.com/WebAuthn/WebAuthn_Developer_Guide/Resident_Keys.html) 
+
+TODO ss of resident key stored a series 5.
+
+`The user handle and private key are stored in persistent memory on the authenticator during the registration ceremony. During the authentication ceremony the authenticator returns the user handle, allowing the RP to look up the associated user. This means that the user does not need to enter a username to login.`
+
+bitcoin cold signing {multisig} , mon-mnemonics, metal(gold), paper wallet, and now nsec 🤦 [supperbacked](https://github.com/superbacked/superbacked) by sun knudsen
 
 ## Custodians (Banks)
 
