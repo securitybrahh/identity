@@ -26,7 +26,7 @@ https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/overv
 
 ## The great Key Management UX problem
 
-is Web Standard of Passkey with [residengt keys,userVerificationRequired](https://developers.yubico.com/WebAuthn/WebAuthn_Developer_Guide/Resident_Keys.html) 
+is Web Standard of Passkey with [resident keys - userVerificationRequired](https://developers.yubico.com/WebAuthn/WebAuthn_Developer_Guide/Resident_Keys.html) 
 
 TODO ss of resident key stored a series 5.
 
