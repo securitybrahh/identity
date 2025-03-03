@@ -24,7 +24,7 @@ https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/overv
 
 ## The great Key Management UX problem
 
-bitcoin cold signing {multisig} , mon-mnemonics, metal(gold), paper wallet, supperbacked by sun knudsen
+bitcoin cold signing {multisig} , mon-mnemonics, metal(gold), paper wallet, and now nsec 🤦 supperbacked by sun knudsen
 
 ## Custodians (Banks)
 
