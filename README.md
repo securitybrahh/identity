@@ -44,3 +44,5 @@ https://bitcoinlaws.io/federal
 
 Post Liquid - A better porotocol on top of or side of the bitcoin chain, as bitcoin as the underlying asset in the Censensus. 
 `Who can peg out? Public can not independently peg-out, which means they require from a Federation member to convert L-BTC back to BTC`
+
+Also companies need to have privacy if btc is accepted as unit of account, albeit some info can be in black and white (btc) {countries have portals for disclosures, filings etc} 
