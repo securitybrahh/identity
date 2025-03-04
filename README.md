@@ -48,3 +48,6 @@ Post Liquid - A better porotocol on top of or side of the bitcoin chain, as bitc
 Btc fungibility graveyard (taintness) can be solved via joinstr.xyz (need local light node running on mobile) 
 
 Also companies need to have privacy if btc is accepted as unit of account, albeit some info can be in black and white (btc) {countries have portals for disclosures, filings etc} 
+
+[Lightning Service Provider node's btc rotated through channels to provide most profitability and efficiaeny in routing
+](https://www.voltage.cloud/blog/deprecating-flow-2-0---paving-the-way-for-a-superior-solution)
