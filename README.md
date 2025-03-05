@@ -1,5 +1,7 @@
 # identity
 
+[Oblivious passwords aka keys that never leave the device](https://blog.cloudflare.com/opaque-oblivious-passwords/)
+
 Identity emerges from Honesty & Musn't (aka Decency). (on the other hand free speech, is about shoudn't/can't)
 
 [Who we are?](https://letters.empiresec.co/p/what-are-we)
