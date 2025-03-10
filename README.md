@@ -61,4 +61,7 @@ Also companies need to have privacy if btc is accepted as unit of account, albei
 
 https://freakoverse.github.io/wotonnostr/
 
-https://github.com/mmalmi/nostr-social-graph/blob/master/src/SocialGraph.ts
+iris - https://github.com/mmalmi/nostr-social-graph/blob/master/src/SocialGraph.tsts
+
+https://github.com/stackernews/stacker.news/blob/master/worker/trust.js
+
