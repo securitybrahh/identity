@@ -55,3 +55,8 @@ Also companies need to have privacy if btc is accepted as unit of account, albei
 
 [Lightning Service Provider node's btc rotated through channels to provide most profitability and efficiaeny in routing
 ](https://www.voltage.cloud/blog/deprecating-flow-2-0---paving-the-way-for-a-superior-solution)
+
+
+## Formulas
+
+https://freakoverse.github.io/wotonnostr/
