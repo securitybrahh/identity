@@ -60,3 +60,5 @@ Also companies need to have privacy if btc is accepted as unit of account, albei
 ## Formulas
 
 https://freakoverse.github.io/wotonnostr/
+
+https://github.com/mmalmi/nostr-social-graph/blob/master/src/SocialGraph.ts
