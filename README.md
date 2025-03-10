@@ -65,3 +65,4 @@ iris - https://github.com/mmalmi/nostr-social-graph/blob/master/src/SocialGraph.
 
 https://github.com/stackernews/stacker.news/blob/master/worker/trust.js
 
+https://github.com/coracle-social/coracle/blob/master/src/partials/WotScore.svelte
