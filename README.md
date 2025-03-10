@@ -1,5 +1,7 @@
 # identity
 
+https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/
+
 [Oblivious passwords aka keys that never leave the device](https://blog.cloudflare.com/opaque-oblivious-passwords/)
 
 Identity emerges from Honesty & Musn't (aka Decency). (on the other hand free speech, is about shoudn't/can't)
