@@ -28,6 +28,12 @@ https://github.com/wds4/tapestry-protocol/blob/main/glossary/decentralizedLangua
 
 https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/overview.md
 
+## Signers (not just hodlers)
+
+* Yubikey Series 5
+* Colcard
+* Elecrtrum & Feather wallet
+
 ## The great Key Management UX problem
 
 is Web Standard of Passkey with [resident keys - userVerificationRequired](https://developers.yubico.com/WebAuthn/WebAuthn_Developer_Guide/Resident_Keys.html) 
