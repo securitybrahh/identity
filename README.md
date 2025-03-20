@@ -113,3 +113,9 @@ iris - https://github.com/mmalmi/nostr-social-graph/blob/master/src/SocialGraph.
 https://github.com/stackernews/stacker.news/blob/master/worker/trust.js
 
 https://github.com/coracle-social/coracle/blob/master/src/partials/WotScore.svelte
+
+# Appendix: Passwordless
+
+https://www.privacyguides.org/articles/2025/02/13/biometrics-explained/
+
+https://www.privacyguides.org/articles/2025/03/08/toward-a-passwordless-future/
