@@ -34,6 +34,18 @@ https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/overv
 * Colcard mk4
 * Elecrtrum & Feather wallet
 
+**"Signing & encrypting" Certificate USB**
+
+HyperSecu's [HyperPKI](https://www.hypersecu.com/hyperpki) ([datasheet](https://www.hypersecu.com/_files/ugd/5aae8d_e2fcd1c4e48749138b12f349d67d49a8.pdf)) 
+
+Supported Algorithms (RSA, ECDSA, AES, SHA-1/256/384/512,T-DES) 
+
+Certifications (FIPS-140-2 Level 3 validation, CE, FCC, ICES, RoHS, REACH) 
+
+API/Protocols (Microsoft CAPI, CNG, PKCS#11 V2.20,Microsoft Smart Card Minidriver, PC/SC, CCID, SSL v3,IPSec/IKE)
+
+pgp signing, ssh connection, adobe pdf signing etc.
+
 ## Dollar Bill
 
 Bitcoin stick -disposable wallet- https://opendime.com/faq
