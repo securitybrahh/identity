@@ -1,3 +1,5 @@
+Privacy, Security, Anonymity should be priced into the products and services, and the services themselves should create incentives enforcing them.
+
 # identity
 
 https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/
@@ -36,6 +38,8 @@ https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/overv
 
 **"Signing & encrypting" Certificate USB**
 
+https://fidoalliance.org/specifications/
+
 HyperSecu's [HyperPKI](https://www.hypersecu.com/hyperpki) ([datasheet](https://www.hypersecu.com/_files/ugd/5aae8d_e2fcd1c4e48749138b12f349d67d49a8.pdf)) 
 
 Supported Algorithms (RSA, ECDSA, AES, SHA-1/256/384/512,T-DES) 
@@ -59,6 +63,18 @@ TODO ss of resident key stored a series 5.
 `The user handle and private key are stored in persistent memory on the authenticator during the registration ceremony. During the authentication ceremony the authenticator returns the user handle, allowing the RP to look up the associated user. This means that the user does not need to enter a username to login.`
 
 bitcoin cold signing {multisig} , mon-mnemonics, metal(gold), paper wallet, and now nsec 🤦 [supperbacked](https://github.com/superbacked/superbacked) by sun knudsen
+
+https://www.passkeycentral.org/design-guidelines/security-key-patterns/enroll-passkeys-on-security-keys
+
+https://www.passkeycentral.org/design-guidelines/security-key-patterns/manage-passkeys-on-security-keys
+
+Passkey Standard by FIDO Allaince is mostly a WebAPI,OSapi SPEC.
+
+## UI
+
+https://fidoalliance.org/get-the-passkey-icon/
+
+https://proton.me/support/encryption-lock-meaning
 
 ## Gun is Law
 
@@ -84,6 +100,9 @@ Also companies need to have privacy if btc is accepted as unit of account, albei
 [Lightning Service Provider node's btc rotated through channels to provide most profitability and efficiaeny in routing
 ](https://www.voltage.cloud/blog/deprecating-flow-2-0---paving-the-way-for-a-superior-solution)
 
+## TradIdentity
+
+[national-identity-number](https://github.com/fido-alliance/credential-exchange-feedback/issues/17)
 
 ## Formulas
 
