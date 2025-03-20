@@ -40,6 +40,8 @@ bitcoin cold signing {multisig} , mon-mnemonics, metal(gold), paper wallet, and 
 
 ## Custodians (Banks)
 
+https://bitkey.build/inheritance-is-live-heres-how-it-works/
+
 https://blog.casa.io/introducing-casa-vault/
 
 https://armantheparman.com/inheritance/
