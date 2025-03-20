@@ -60,6 +60,10 @@ TODO ss of resident key stored a series 5.
 
 bitcoin cold signing {multisig} , mon-mnemonics, metal(gold), paper wallet, and now nsec 🤦 [supperbacked](https://github.com/superbacked/superbacked) by sun knudsen
 
+## Gun is Law
+
+Code is free speech, enforcement can only be done via threat of violence.
+
 ## Custodians (Banks)
 
 https://bitkey.build/inheritance-is-live-heres-how-it-works/
