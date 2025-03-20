@@ -31,8 +31,12 @@ https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/overv
 ## Signers (not just hodlers)
 
 * Yubikey Series 5
-* Colcard
+* Colcard mk4
 * Elecrtrum & Feather wallet
+
+## Dollar Bill
+
+Bitcoin stick -disposable wallet- https://opendime.com/faq
 
 ## The great Key Management UX problem
 
