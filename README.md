@@ -32,7 +32,7 @@ https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/overv
 
 ## Signers (not just hodlers)
 
-* Yubikey Series 5
+* Yubikey Series 5 https://www.privacyguides.org/articles/2025/03/06/yubikey-reset-and-backup/
 * Colcard mk4
 * Elecrtrum & Feather wallet
 
