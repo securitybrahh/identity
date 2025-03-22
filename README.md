@@ -50,6 +50,15 @@ API/Protocols (Microsoft CAPI, CNG, PKCS#11 V2.20,Microsoft Smart Card Minidrive
 
 pgp signing, ssh connection, adobe pdf signing etc.
 
+## Mnemonic Prervation
+
+https://blog.casa.io/how-to-protect-your-bitcoin-from-5-wrench-attacks/
+
+1. Sun knudsen or
+2. Cylinder Metal or 
+3. Seed Plate by coinkite or
+4. Generated via passphrase (entropy < password
+
 ## Dollar Bill
 
 Bitcoin stick -disposable wallet- https://opendime.com/faq
