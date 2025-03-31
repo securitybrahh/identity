@@ -125,6 +125,8 @@ https://github.com/coracle-social/coracle/blob/master/src/partials/WotScore.svel
 
 # Appendix: Passwordless
 
+https://docs.pubky.org/Explore/Pubky-Core/Pkarr/0.Introduction
+
 https://www.privacyguides.org/articles/2025/02/13/biometrics-explained/
 
 https://www.privacyguides.org/articles/2025/03/08/toward-a-passwordless-future/
