@@ -2,6 +2,8 @@ Privacy, Security, Anonymity should be priced into the products and services, an
 
 # identity
 
+https://github.com/blackcoffeexbt/hardware-nostr-connect-device
+
 https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/
 
 https://docs.pubky.org/Explore/Pubky-Core/Pkarr/0.Introduction
