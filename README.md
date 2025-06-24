@@ -2,6 +2,12 @@ Privacy, Security, Anonymity should be priced into the products and services, an
 
 # identity
 
+https://use.nsec.app/home as a [IWA](https://github.com/ua-community/iwa-launcher)? 
+
+https://nostrconnect.org/
+
+https://www.frostr.org/
+
 https://github.com/blackcoffeexbt/hardware-nostr-connect-device
 
 https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/
